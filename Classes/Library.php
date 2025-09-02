@@ -28,6 +28,28 @@ class Library {
         return $searchResults;
     }
 
+    public function saveToJson(string $fileName){
+        $data = [];
+
+        foreach($this->books as $book){
+            $data = [
+                "title" => $book->getTitle(),
+                'author'      => $book->getAuthor(),
+                'year'        => $book->getYear(),
+                'genre'       => $book->getGenre(),
+                'description' => $book->getDescription(),
+            ];
+        }
+
+        file_put_contents($fileName, json_encode($data, JSON_PRETTY_PRINT));
+
+
+    }
+
+    public function loadFromJson (string $fileName) : array {
+        
+    }
+
 
 
 
