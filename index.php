@@ -38,7 +38,10 @@ require_once(__DIR__ . '/Classes/Library.php')
 </div>
 
 <div class="container cta text-center mt-5">
-    <button class="btn btn-primary" type="button"><a href="">Check our Library</a> -></button>
+    <a href="" class="btn btn-primary text-decoration-none text-white">
+        Check our Library
+    </a>
+
 </div>
 
 

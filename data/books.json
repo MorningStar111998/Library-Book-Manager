@@ -1,3 +1,72 @@
 [
-
+  {
+    "title": "12 Rules for Life",
+    "author": "Jordan Peterson",
+    "year": 2018,
+    "genre": "Self-Help",
+    "description": "An antidote to chaos."
+  },
+  {
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "year": 1988,
+    "genre": "Fiction",
+    "description": "A philosophical tale about pursuing one's personal legend."
+  },
+  {
+    "title": "The Richest Man in Babylon",
+    "author": "George S. Clason",
+    "year": 1926,
+    "genre": "Finances",
+    "description": "Ancient parables on financial wisdom and wealth building."
+  },
+  {
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "year": 1965,
+    "genre": "Science Fiction",
+    "description": "An epic tale of politics, religion, and ecology on the desert planet Arrakis."
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "year": 1813,
+    "genre": "Classics",
+    "description": "A witty exploration of love, class, and society in 19th-century England."
+  },
+  {
+    "title": "The Shining",
+    "author": "Stephen King",
+    "year": 1977,
+    "genre": "Horror",
+    "description": "A family’s winter stay at an isolated hotel turns into a terrifying nightmare."
+  },
+  {
+    "title": "Becoming",
+    "author": "Michelle Obama",
+    "year": 2018,
+    "genre": "Biography",
+    "description": "The inspiring memoir of the former First Lady of the United States."
+  },
+  {
+    "title": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "year": 2003,
+    "genre": "Mystery",
+    "description": "A symbologist unravels secrets hidden in works of art and history."
+  },
+  {
+    "title": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "year": 2008,
+    "genre": "Young Adult",
+    "description": "A dystopian story of survival, rebellion, and hope in a brutal competition."
+  },
+  {
+    "title": "Where the Crawdads Sing",
+    "author": "Delia Owens",
+    "year": 2018,
+    "genre": "Romance",
+    "description": "A coming-of-age story mixed with a murder mystery in the marshes of North Carolina."
+  }
 ]

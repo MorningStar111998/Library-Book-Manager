@@ -8,6 +8,7 @@ class Book
         'Non-Fiction',
         'Science Fiction',
         'Fantasy',
+        'Finances',
         'Mystery',
         'Thriller',
         'Romance',
