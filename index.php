@@ -38,7 +38,7 @@ require_once(__DIR__ . '/Classes/Library.php')
 </div>
 
 <div class="container cta text-center mt-5">
-    <a href="" class="btn btn-primary text-decoration-none text-white">
+    <a href="library-genres.php" class="btn btn-primary text-decoration-none text-white">
         Check our Library
     </a>
 
