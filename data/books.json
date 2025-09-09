@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "title": "12 Rules for Life",
     "author": "Jordan Peterson",
     "year": 2018,
@@ -7,6 +8,7 @@
     "description": "An antidote to chaos."
   },
   {
+    "id": 2,
     "title": "The Alchemist",
     "author": "Paulo Coelho",
     "year": 1988,
@@ -14,6 +16,7 @@
     "description": "A philosophical tale about pursuing one's personal legend."
   },
   {
+    "id": 3,
     "title": "The Richest Man in Babylon",
     "author": "George S. Clason",
     "year": 1926,
@@ -21,6 +24,7 @@
     "description": "Ancient parables on financial wisdom and wealth building."
   },
   {
+    "id": 4,
     "title": "Dune",
     "author": "Frank Herbert",
     "year": 1965,
@@ -28,6 +32,7 @@
     "description": "An epic tale of politics, religion, and ecology on the desert planet Arrakis."
   },
   {
+    "id": 5,
     "title": "Pride and Prejudice",
     "author": "Jane Austen",
     "year": 1813,
@@ -35,6 +40,7 @@
     "description": "A witty exploration of love, class, and society in 19th-century England."
   },
   {
+    "id": 6,
     "title": "The Shining",
     "author": "Stephen King",
     "year": 1977,
@@ -42,6 +48,7 @@
     "description": "A family’s winter stay at an isolated hotel turns into a terrifying nightmare."
   },
   {
+    "id": 7,
     "title": "Becoming",
     "author": "Michelle Obama",
     "year": 2018,
@@ -49,6 +56,7 @@
     "description": "The inspiring memoir of the former First Lady of the United States."
   },
   {
+    "id": 8,
     "title": "The Da Vinci Code",
     "author": "Dan Brown",
     "year": 2003,
@@ -56,6 +64,7 @@
     "description": "A symbologist unravels secrets hidden in works of art and history."
   },
   {
+    "id": 9,
     "title": "The Hunger Games",
     "author": "Suzanne Collins",
     "year": 2008,
@@ -63,6 +72,7 @@
     "description": "A dystopian story of survival, rebellion, and hope in a brutal competition."
   },
   {
+    "id": 10,
     "title": "Where the Crawdads Sing",
     "author": "Delia Owens",
     "year": 2018,

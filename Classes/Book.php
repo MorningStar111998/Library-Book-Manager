@@ -25,7 +25,7 @@ class Book
         'Classics'
     ];
     private static int $bookCount = 0;
-    private ?int $id = null;
+    private int $id;
     private string $title;
     private string $author;
     private int $year;
@@ -51,7 +51,7 @@ class Book
         $this->genre = $genre;
         $this->description = $description;
 
-        self::$bookCount++;
+        $this->id = ++self::$bookCount;
     }
 
     public function getId(): ?int {

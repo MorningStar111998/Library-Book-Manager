@@ -1,15 +1,20 @@
 <?php
 
-$dbhost = "localhost:3307";
+$host = "localhost:3307";
 $db = "book_library";
 $user = "root";
 $password = "";
 $charset = "utf8";
-$querry = "SELECT * FROM books WHERE is_enabled = :is_enabled";
 
 $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
+
+$options = [
+    PDO::ATTR_ERRMODE            => PDO::ERRMODE_EXCEPTION,
+    PDO::ATTR_DEFAULT_FETCH_MODE => PDO::FETCH_ASSOC,
+];
+
 try {
-    $mysqlClient = new PDO ($dsn, $user, $password);
+    $mysqlClient = new PDO ($dsn, $user, $password, $options);
 } catch (Exception $e){
-    die('Erreur : '. $e->getMessage());
+    die('Database connection failed: '. $e->getMessage());
 }
